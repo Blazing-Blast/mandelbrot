@@ -1,5 +1,5 @@
 #pragma once
-#include <MiniFB.h>
+#include "MiniFB.h"
 #include <iostream>
 
 constexpr uint32_t colorWidth = sizeof(uint32_t);

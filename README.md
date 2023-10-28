@@ -4,6 +4,16 @@ Native, cross-platform mandelbrot set explorer
 
 ## Building
 
+### Dependencies
+
+The program links against these libraries. They are needed at least at compile time, and if linked dynamically, also at run-time.
+
+- MiniFB
+- X11
+- OpenGL
+
+### Compiling
+
 In order to build the project, run
 
 ```bash
